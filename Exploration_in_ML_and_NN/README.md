@@ -1,4 +1,4 @@
-# Exploration_in_ML_and_NN
+# Futher Exploration into Machine Learning and Neural Networks
 These projects consist of further exploration into machine learning and neural networks.
 
 ## Contents:
