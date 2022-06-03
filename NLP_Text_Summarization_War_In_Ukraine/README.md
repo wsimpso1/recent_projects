@@ -6,6 +6,8 @@ DATA 690: Introduction to Natural Language Processing \
 Dr. Antonio Diana \
 May 6, 2022
 
+### NOTE: To ensure all figures/graphs render properly, it is recommended to view these notebooks via the Google Colab link located at the top of each notebook.
+
 ## Project Description
 Utilizing automatic text summarization, this project presents a web-based analysis tool (Streamlit) that is designed to alleviate the difficulty of filtering through the immense volume of data about the war in Ukraine to keep track of major developments. Based on existing research on event summarization, we explore the capabilities of named entity recognition (NER), topic modeling, clustering, and sentiment analysis methods to help identify important sub-events for automatic summarization. Compared to a timeline of actual events, we find that our primarily unsupervised summarization system successfully identified important sub-events within the war in Ukraine.
 
