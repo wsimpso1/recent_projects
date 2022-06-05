@@ -9,4 +9,4 @@ A collection of recent school-related and personal data science projects.
 6) Montgomery County Public Schools (MCPS) COVID-19 Cases (Data Preparation for Tableau Dashboard)
 7) Worldbank IBRD loans and country income level
 8) COVID-19 and Quality of Governance
-9) A folder of projects focused on further exploration into ML and NN
+9) A folder of projects focused on further exploration into ML and NN 
