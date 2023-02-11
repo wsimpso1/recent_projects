@@ -2,7 +2,7 @@
 A collection of recent school-related and personal data science projects.
 
 ## Contents:
-1) NLP Text Summarization of the War in Ukraine (2022)
+1) NLP Text Summarization of the War in Ukraine (2022) 
 2) DC COVID-19 Crime Analysis
 3) Satellite Imagery Analysis (Transfer Learning of Object Detection Model to Identify Vehicles from Aerial Images)
 4) Fake news text classification system in PySpark
