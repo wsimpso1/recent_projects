@@ -1,4 +1,4 @@
-# Recent Data Science Projects for Internship/Job Applications
+# Recent Data Science Projects
 A collection of recent school-related and personal data science projects.
 
 ## Contents:
